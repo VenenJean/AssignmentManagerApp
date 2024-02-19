@@ -14,7 +14,7 @@ public class AppDbContext : DbContext {
     $"server=localhost;" +
     $"port=3306;" +
     $"user=root;" +
-    $"password=Antidote2580134679#;" +
+    $"password=Password123#;" +
     $"database=TaskManagerApp;";
 
   protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder) {
